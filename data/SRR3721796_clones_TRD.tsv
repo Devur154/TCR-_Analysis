@@ -1,0 +1,2 @@
+cloneId	readCount	readFraction	targetSequences	targetQualities	allVHitsWithScore	allDHitsWithScore	allJHitsWithScore	allCHitsWithScore	allVAlignments	allDAlignments	allJAlignments	allCAlignments	nSeqCDR3	minQualCDR3	aaSeqCDR3	refPoints
+4835	1.0	1.0	TGTGCAGCAATCGGAGGGATACGGTCTACCGACAAACTCGTCTTT	?????????????????????????????????????????????	TRAV23/DV6*00(292)	TRDD3*00(40)	TRDJ1*00(165)		371|381|404|0|10||100.0	18|26|39|15|23||40.0	22|40|71|27|45|ST27CSA34G|122.0		TGTGCAGCAATCGGAGGGATACGGTCTACCGACAAACTCGTCTTT	30	CAAIGGIRSTDKLVF	:::::::::0:-3:10:15:-5:0:23:27:-2:45:::
